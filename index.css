@@ -1,0 +1,17 @@
+body {
+    font-family: "Libertinus Serif Display", system-ui;
+    font-weight: 400;
+    font-style: normal; 
+    background-image: url("https://i.pinimg.com/1200x/d0/fb/a9/d0fba92f276fa949578c2afa3772cca4.jpg");
+    color: black;
+}
+
+h1 {
+  font-family: "Story Script", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: rgb(146, 67, 10);}
+
+h2 {
+color: rgb(124, 100, 63);}
+h3 {color: rgb(158, 125, 83);}
